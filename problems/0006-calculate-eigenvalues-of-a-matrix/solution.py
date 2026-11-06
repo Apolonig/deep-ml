@@ -1,3 +1,14 @@
+# import numpy as np
+
+# A = np.array([[2, 1],
+#             [1, 2]])
+
+# eigenvalues = np.linalg.eigvals(A).tolist()
+# result = np.real_if_close(eigenvalues).tolist()
+
+# print(result)
+
+
 from math import sqrt
 
 
